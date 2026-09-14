@@ -5,3 +5,4 @@ GitHub Desktop practice.
 Team: THinKR
 Member: Rojina Thapa
 Course: CSCE 4901
+Goal: learn Git branchings
